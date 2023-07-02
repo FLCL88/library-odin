@@ -9,15 +9,18 @@
 
 .main {
     font-size: 20px;
-    padding: 10px;
+    padding: 5px;
     display: flex;
     justify-content: center;
 }
 
 .btn {
     padding: 5px;
-    background-color: lightgrey;
-    font-size: 16px;
+    background-color: lightgray;
+    font-size: 15px;
     cursor: pointer;
     border-radius: 12px;
+    position: absolute;
+    top: 18%;
+    left: 47.5%;
 }
